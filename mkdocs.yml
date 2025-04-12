@@ -1,0 +1,14 @@
+site_name: Open-Pit Mining
+docs_dir: docs
+repo_url: https://github.com/Kasivvvv/mining/tree/main
+
+copyright:
+
+theme:
+  name: readthedocs
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - about: index.md

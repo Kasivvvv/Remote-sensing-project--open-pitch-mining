@@ -1,0 +1,1 @@
+Zasady wykorzystania danych z bazy MIDAS znajdują się pod adresem http://geoportal.pgi.gov.pl/portal/page/portal/midas/zrodlo_danych
